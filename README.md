@@ -8,10 +8,10 @@ I am a recent graduate with degrees in Big Data Analytics and Physics from Wroc�
 
 Currently, I am:
 - **Creating and Analyzing Datasets:** Working on datasets related to League of Legends European Championship (LEC) games to gain insights into game dynamics and player performance. You you are interested you can find my datasets on Kaggle [www.kaggle.com/smvjkk].
-  - **LEC Spring Season 2024 🌸** ✔️
-  - **LEC Spring Playoffs 2024 🌸** ✔️
-  - **LEC Summer Season 2024 ☀️** ✔️
-  - **LEC Summer Playoffs 2024 ☀️** ✔️
+  - **LEC Spring Season 2024 🌸.** ✔️
+  - **LEC Spring Playoffs 2024 🌸.** ✔️
+  - **LEC Summer Season 2024 ☀️.** ✔️
+  - **LEC Summer Playoffs 2024 ☀️.** ✔️
   - **LEC Season Finals 2024**
 - **Developing a Python Library:** Working on a Python library as part of my master’s thesis. This library focuses on:
   - **Autoencoder-Based Neural Network:** Successfully designed and implemented using PyTorch to efficiently reconstruct high-dimensional input vectors. ✔️
