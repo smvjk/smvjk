@@ -42,7 +42,9 @@ Currently, I am:
 
 Feel free to reach out if you’d like to discuss data science, e-sports analytics, or potential collaborations!
 
+Thanks for visiting my GitHub profile! 🌟
+
 ## Visitor Counter
 ![Visitor Count](https://komarev.com/ghpvc/?username=smvjkk&color=brightgreen)
     
-Thanks for visiting my GitHub profile! 🌟
+
