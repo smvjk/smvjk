@@ -9,17 +9,18 @@ I am a recent graduate with degrees in Big Data Analytics and Physics from Wroc�
 Currently, I am:
 
 - **Creating and Analyzing Datasets:** Working on datasets related to major League of Legends tournaments, such as the League of Legends European Championship (**LEC**), Korean League of Legends Championship (**LCK**), and the League of Legends Pro League (**LPL**) games to gain insights into game dynamics and player performance. You you are interested you can find my datasets on Kaggle [www.kaggle.com/smvjkk].
+- 
   - **LEC Spring Season/Playoffs 2024 🌸** ✔️
   - **LEC Summer Season/Playoffs 2024 ☀️** ✔️
   - **LEC Season Finals 2024 👑** ✔️
  
   - **LCK Summer Season/Playoffs 2024 ☀️** ✔️
   - **LCK Regional Finals 👑** ✔️
-  - 
+    
   - **LPL Summer Season/Playoffs 2024☀️** ✔️
   - **LPL Regional Finals 👑** ✔️
  
-  - **Worlds 2024**
+  - **Worlds 2024** 🔜
     
 - **Developing a Python Library:** Working on a Python library as part of my master’s thesis. This library focuses on:
   - **Autoencoder-Based Neural Network:** Successfully designed and implemented using PyTorch to efficiently reconstruct high-dimensional input vectors. ✔️
