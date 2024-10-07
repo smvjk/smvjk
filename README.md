@@ -41,9 +41,7 @@ Currently, I am:
 
 Feel free to reach out if you’d like to discuss data science, e-sports analytics, or potential collaborations!
 
-    <div align="center">
-        <img alt="Visitor Stats" 
-            src="https://widgetbite.com/stats/<smvjk>"/>  
-    </div>
+## Visitor Counter
+![Visitor Count](https://komarev.com/ghpvc/?username=smvjkk&color=brightgreen)
     
 Thanks for visiting my GitHub profile! 🌟
