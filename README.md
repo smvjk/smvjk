@@ -20,7 +20,7 @@ Currently, I am:
   - **LPL Summer Season/Playoffs 2024☀️** ✔️
   - **LPL Regional Finals 👑** ✔️
  
-  - **Worlds 2024** 🔜
+  - **Worlds 2024** ✔️
     
 - **Developing a Python Library:** Working on a Python library as part of my master’s thesis. This library focuses on:
   - **Autoencoder-Based Neural Network:** Successfully designed and implemented using PyTorch to efficiently reconstruct high-dimensional input vectors. ✔️
